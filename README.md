@@ -1,6 +1,6 @@
 ### Hi there, I'm Eric Antunes
 
-- 🌱 I’m currently learning about Java and SpringBoot.
+- 🌱 I’m currently learning about Data Science.
 - 💻 I recently created a blog, where I write about programming and my thoughts [ericvantunes.com](https://ericvantunes.com)
 - 📫 How to reach me: [antunesv.eric@gmail.com](mailto:antunesv.eric@gmail.com)
 
